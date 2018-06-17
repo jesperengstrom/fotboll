@@ -1,0 +1,23 @@
+<template>
+  <thead>
+    <tr>
+      <th :key="key" v-for="(value, key) in heads">
+        {{key}}
+      </th>
+    </tr>
+  </thead>
+</template>
+
+<script>
+export default {
+  name: 'Betheads',
+  props: {
+    heads: {
+      type: Object
+    }
+  }
+};
+</script>
+
+<style>
+</style>
