@@ -1,15 +1,18 @@
 <template>
-  <table class="table table-bordered table-hover table-sm">
-    <betheads :heads="heads" />
-    <tbody>
-      <betrow v-for="(bet, index) in allBets" :key="index" :bet="bet" />
-    </tbody>
-    <tfoot>
-      <tr>
-        <td v-for="(result, index) in results" :key="index">{{result.score}}</td>
-      </tr>
-    </tfoot>
-  </table>
+  <div>
+    <loading v-show="allBets.length === 0" />
+    <table v-show="allBets.length > 0" class="table table-bordered table-hover table-sm">
+      <betheads :heads="heads" />
+      <tbody>
+        <betrow v-for="(bet, index) in allBets" :key="index" :bet="bet" />
+      </tbody>
+      <tfoot>
+        <tr>
+          <td v-for="(result, index) in results" :key="index">{{result.score}}</td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
 </template>
 
 <script>
@@ -18,12 +21,14 @@ import results from '../../data/results';
 
 import Betheads from './Betheads.vue';
 import Betrow from './Betrow.vue';
+import Loading from './Loading.vue';
 
 export default {
   name: 'Bets',
   components: {
     Betheads,
-    Betrow
+    Betrow,
+    Loading
   },
   data () {
     return {
@@ -63,11 +68,11 @@ export default {
     addPoints (arr) {
       let withPoints = arr.map(el => {
         return {
-          ...el,
-          points: this.calcPoints(el)
+          points: this.calcPoints(el),
+          ...el
         };
       });
-
+      console.log(withPoints);
       return this.sortPlayers(withPoints);
     },
 

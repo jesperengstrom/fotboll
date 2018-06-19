@@ -1,4 +1,9 @@
 const results = {
+  _: {
+    result: '',
+    score: '',
+    points: 0
+  },
   Results: {
     result: '',
     score: 'RESULTAT',
