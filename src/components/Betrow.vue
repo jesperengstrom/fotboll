@@ -19,11 +19,10 @@ export default {
         return val.bet;
       } else return val;
     },
-    addBg(val) {
+    addBg (val) {
       if (val.hasOwnProperty('correct')) {
         return val.correct ? 'table-success' : 'table-danger';
       } else return '';
-
     }
   },
   computed: {}

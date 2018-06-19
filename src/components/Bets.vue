@@ -1,15 +1,15 @@
 <template>
-<table class="table table-bordered table-hover table-sm">
-  <betheads :heads="heads" />
-  <tbody>
-    <betrow v-for="(bet, index) in allBets" :key="index" :bet="bet" />
-  </tbody>
-  <tfoot>
-    <tr>
-      <td v-for="(result, index) in results" :key="index">{{result.score}}</td>
-    </tr>
-  </tfoot>
-</table>
+  <table class="table table-bordered table-hover table-sm">
+    <betheads :heads="heads" />
+    <tbody>
+      <betrow v-for="(bet, index) in allBets" :key="index" :bet="bet" />
+    </tbody>
+    <tfoot>
+      <tr>
+        <td v-for="(result, index) in results" :key="index">{{result.score}}</td>
+      </tr>
+    </tfoot>
+  </table>
 </template>
 
 <script>
@@ -33,21 +33,6 @@ export default {
     };
   },
   methods: {
-    // formatBets () {
-    //   let formattedBets = bets.map(el => {
-    //     for (let key in el) {
-    //       let bet = el[key];
-    //       let newobj = {
-    //         bet: bet,
-    //         points: 0
-    //       };
-
-    //       return (el[key] = { ...el, newobj });
-    //     }
-    //   });
-    //   console.log(formattedBets);
-    // },
-
     addResult (arr) {
       arr.forEach((el, i) => {
         for (let key in el) {
