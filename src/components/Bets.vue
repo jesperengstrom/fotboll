@@ -1,17 +1,19 @@
 <template>
   <div>
     <loading v-show="allBets.length === 0" />
-    <table v-show="allBets.length > 0" class="table table-bordered table-hover table-sm">
-      <betheads :heads="heads" />
-      <tbody>
-        <betrow v-for="(bet, index) in allBets" :key="index" :bet="bet" />
-      </tbody>
-      <tfoot>
-        <tr>
-          <td v-for="(result, index) in results" :key="index">{{result.score}}</td>
-        </tr>
-      </tfoot>
-    </table>
+    <transition name="fade">
+      <table v-show="allBets.length > 0" class="table table-bordered table-hover table-sm">
+        <betheads :heads="heads" />
+        <tbody>
+          <betrow v-for="(bet, index) in allBets" :key="index" :bet="bet" />
+        </tbody>
+        <tfoot>
+          <tr class="table-info">
+            <th v-for="(result, index) in results" :key="index">{{result.score}}</th>
+          </tr>
+        </tfoot>
+      </table>
+    </transition>
   </div>
 </template>
 
@@ -72,7 +74,6 @@ export default {
           ...el
         };
       });
-      console.log(withPoints);
       return this.sortPlayers(withPoints);
     },
 
@@ -88,11 +89,21 @@ export default {
   created () {
     let transformedBets = this.addResult(bets);
 
-    this.allBets = transformedBets;
-    this.heads = transformedBets[0];
+    // just to see loader + transition :)
+    setTimeout(() => {
+      this.allBets = transformedBets;
+      this.heads = transformedBets[0];
+    }, 200);
   }
 };
 </script>
 
 <style>
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
+}
 </style>

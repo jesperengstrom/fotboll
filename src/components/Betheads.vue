@@ -1,6 +1,6 @@
 <template>
   <thead>
-    <tr>
+    <tr class="table-info">
       <th :key="key" v-if="key !== 'Timestamp'" v-for="(value, key) in heads">
         {{key}}
       </th>
