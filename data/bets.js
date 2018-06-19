@@ -60,9 +60,8 @@ const bets = [
     'GULD går till...': 'kroatien ',
     'SILVER går till...': 'frankrike',
     'BRONS går till...': 'sverige',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Harry Kane',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '52',
+    Skyttekung: 'Harry Kane',
+    'Antal mål i VM': '52',
     Timestamp: '2018/05/25 2:49:10 pm EET'
   },
   {
@@ -126,10 +125,8 @@ const bets = [
     'GULD går till...': 'Spanien',
     'SILVER går till...': 'Frankrike',
     'BRONS går till...': 'Argentina',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Diego Costa',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '157',
+    Skyttekung: 'Diego Costa',
+    'Antal mål i VM': '157',
     Timestamp: '2018/05/28 2:25:35 pm EET'
   },
   {
@@ -193,10 +190,8 @@ const bets = [
     'GULD går till...': 'Frankrike',
     'SILVER går till...': 'Belgien',
     'BRONS går till...': 'Tyskland',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Antoine Griezmann',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '156',
+    Skyttekung: 'Antoine Griezmann',
+    'Antal mål i VM': '156',
     Timestamp: '2018/05/28 3:12:27 pm EET'
   },
   {
@@ -260,9 +255,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Belgien',
     'BRONS går till...': 'Brasilien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Ronaldo',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '201',
+    Skyttekung: 'Ronaldo',
+    'Antal mål i VM': '201',
     Timestamp: '2018/06/03 12:15:18 pm EET'
   },
   {
@@ -326,9 +320,8 @@ const bets = [
     'GULD går till...': 'Egypten',
     'SILVER går till...': 'Australien',
     'BRONS går till...': 'Tyskland',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Harry Kane',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '187',
+    Skyttekung: 'Harry Kane',
+    'Antal mål i VM': '187',
     Timestamp: '2018/06/03 1:58:26 pm EET'
   },
   {
@@ -392,9 +385,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Frankrike',
     'BRONS går till...': 'Belgien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Griezmann',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '175',
+    Skyttekung: 'Griezmann',
+    'Antal mål i VM': '175',
     Timestamp: '2018/06/03 2:22:39 pm EET'
   },
   {
@@ -458,10 +450,8 @@ const bets = [
     'GULD går till...': 'Argentina ',
     'SILVER går till...': 'Brasilien ',
     'BRONS går till...': 'Tyskland ',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Gabriel Jesus',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '94',
+    Skyttekung: 'Gabriel Jesus',
+    'Antal mål i VM': '94',
     Timestamp: '2018/06/06 11:47:45 pm EET'
   },
   {
@@ -525,10 +515,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Portugal',
     'BRONS går till...': 'Brasilien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Thomas Müller',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '137',
+    Skyttekung: 'Thomas Müller',
+    'Antal mål i VM': '137',
     Timestamp: '2018/06/07 10:32:50 am EET'
   },
   {
@@ -592,10 +580,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Frankrike',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Antoine Griezmann',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '144',
+    Skyttekung: 'Antoine Griezmann',
+    'Antal mål i VM': '144',
     Timestamp: '2018/06/07 12:38:41 pm EET'
   },
   {
@@ -659,10 +645,8 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Spanien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Gabriel Jesus',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '157',
+    Skyttekung: 'Gabriel Jesus',
+    'Antal mål i VM': '157',
     Timestamp: '2018/06/09 11:20:08 am EET'
   },
   {
@@ -726,9 +710,8 @@ const bets = [
     'GULD går till...': 'Argentina',
     'SILVER går till...': 'Belgien',
     'BRONS går till...': 'Frankrike',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Messi',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '118',
+    Skyttekung: 'Messi',
+    'Antal mål i VM': '118',
     Timestamp: '2018/06/10 7:59:55 am EET'
   },
   {
@@ -792,9 +775,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Argentina',
     'BRONS går till...': 'Spanien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Messi',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '46',
+    Skyttekung: 'Messi',
+    'Antal mål i VM': '46',
     Timestamp: '2018/06/10 12:41:44 pm EET'
   },
   {
@@ -858,10 +840,8 @@ const bets = [
     'GULD går till...': 'Belgien',
     'SILVER går till...': 'Spanien',
     'BRONS går till...': 'Tyskland',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Eden hazard',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '169',
+    Skyttekung: 'Eden hazard',
+    'Antal mål i VM': '169',
     Timestamp: '2018/06/10 1:09:42 pm EET'
   },
   {
@@ -925,9 +905,8 @@ const bets = [
     'GULD går till...': 'Belgien',
     'SILVER går till...': 'Argentina',
     'BRONS går till...': 'Spanien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Neymar',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '162',
+    Skyttekung: 'Neymar',
+    'Antal mål i VM': '162',
     Timestamp: '2018/06/10 3:39:00 pm EET'
   },
   {
@@ -991,10 +970,8 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Frankrike',
     'BRONS går till...': 'Argentina',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Gabriel Jesus',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '165',
+    Skyttekung: 'Gabriel Jesus',
+    'Antal mål i VM': '165',
     Timestamp: '2018/06/10 6:25:53 pm EET'
   },
   {
@@ -1058,10 +1035,8 @@ const bets = [
     'GULD går till...': 'Frankrike',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Schweiz',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Kylian Mbappé',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '143',
+    Skyttekung: 'Kylian Mbappé',
+    'Antal mål i VM': '143',
     Timestamp: '2018/06/11 9:12:13 am EET'
   },
   {
@@ -1125,10 +1100,8 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Argentina',
     'BRONS går till...': 'Tyskland',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Lionel Messi',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '164',
+    Skyttekung: 'Lionel Messi',
+    'Antal mål i VM': '164',
     Timestamp: '2018/06/11 11:35:55 am EET'
   },
   {
@@ -1192,10 +1165,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Belgien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Robert Lewandowski',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '126',
+    Skyttekung: 'Robert Lewandowski',
+    'Antal mål i VM': '126',
     Timestamp: '2018/06/11 5:06:48 pm EET'
   },
   {
@@ -1259,10 +1230,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Belgien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Timo Werner',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '141',
+    Skyttekung: 'Timo Werner',
+    'Antal mål i VM': '141',
     Timestamp: '2018/06/11 8:03:59 pm EET'
   },
   {
@@ -1326,9 +1295,8 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Argentina',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Neymar',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '163',
+    Skyttekung: 'Neymar',
+    'Antal mål i VM': '163',
     Timestamp: '2018/06/11 11:01:10 pm EET'
   },
   {
@@ -1392,9 +1360,8 @@ const bets = [
     'GULD går till...': 'Argentina',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'England',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Neymar',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '143',
+    Skyttekung: 'Neymar',
+    'Antal mål i VM': '143',
     Timestamp: '2018/06/12 3:58:41 pm EET'
   },
   {
@@ -1458,10 +1425,8 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Spanien',
     'BRONS går till...': 'Frankrike',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Romelu Lukaku',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '162',
+    Skyttekung: 'Romelu Lukaku',
+    'Antal mål i VM': '162',
     Timestamp: '2018/06/12 6:43:41 pm EET'
   },
   {
@@ -1525,10 +1490,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Frankrike',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Lionel Messi',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '160',
+    Skyttekung: 'Lionel Messi',
+    'Antal mål i VM': '160',
     Timestamp: '2018/06/12 7:14:58 pm EET'
   },
   {
@@ -1592,10 +1555,8 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Argentina',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Thomas Müller',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '420',
+    Skyttekung: 'Thomas Müller',
+    'Antal mål i VM': '420',
     Timestamp: '2018/06/12 9:03:28 pm EET'
   },
   {
@@ -1659,10 +1620,8 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Kroatien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Neymar, med Mandzukic tätt bakom',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '151',
+    Skyttekung: 'Neymar, med Mandzukic tätt bakom',
+    'Antal mål i VM': '151',
     Timestamp: '2018/06/12 9:51:11 pm EET'
   },
   {
@@ -1726,10 +1685,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Frankrike',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Thomas Müller',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '157',
+    Skyttekung: 'Thomas Müller',
+    'Antal mål i VM': '157',
     Timestamp: '2018/06/12 10:14:20 pm EET'
   },
   {
@@ -1793,10 +1750,8 @@ const bets = [
     'GULD går till...': ' Brazilien',
     'SILVER går till...': 'Portugal ',
     'BRONS går till...': 'Danmark',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Christianio Ronaldo',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '166',
+    Skyttekung: 'Christianio Ronaldo',
+    'Antal mål i VM': '166',
     Timestamp: '2018/06/13 2:17:30 am EET'
   },
   {
@@ -1860,10 +1815,8 @@ const bets = [
     'GULD går till...': 'Spanien',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Tyskland',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Thomas Muller ',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '2401',
+    Skyttekung: 'Thomas Muller ',
+    'Antal mål i VM': '2401',
     Timestamp: '2018/06/13 8:45:10 am EET'
   },
   {
@@ -1927,10 +1880,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Spanien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Christiano Ronaldo',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '165',
+    Skyttekung: 'Christiano Ronaldo',
+    'Antal mål i VM': '165',
     Timestamp: '2018/06/13 10:58:30 am EET'
   },
   {
@@ -1994,9 +1945,8 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Spanien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Neymar',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '140',
+    Skyttekung: 'Neymar',
+    'Antal mål i VM': '140',
     Timestamp: '2018/06/13 2:42:16 pm EET'
   },
   {
@@ -2060,10 +2010,8 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Kroatien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Gabriel Jesus',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '159',
+    Skyttekung: 'Gabriel Jesus',
+    'Antal mål i VM': '159',
     Timestamp: '2018/06/13 5:26:41 pm EET'
   },
   {
@@ -2127,10 +2075,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Spanien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Thomas Muller',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '127',
+    Skyttekung: 'Thomas Muller',
+    'Antal mål i VM': '127',
     Timestamp: '2018/06/13 6:49:49 pm EET'
   },
   {
@@ -2194,10 +2140,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Frankrike',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Thomas Muller',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '158',
+    Skyttekung: 'Thomas Muller',
+    'Antal mål i VM': '158',
     Timestamp: '2018/06/13 7:36:25 pm EET'
   },
   {
@@ -2262,9 +2206,8 @@ const bets = [
     'GULD går till...': 'Agentina',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Tyskland',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Harry Kane',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '183',
+    Skyttekung: 'Harry Kane',
+    'Antal mål i VM': '183',
     Timestamp: '2018/06/13 8:34:36 pm EET'
   },
   {
@@ -2328,9 +2271,8 @@ const bets = [
     'GULD går till...': 'Brasilien ',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'England',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Messi ',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '160',
+    Skyttekung: 'Messi ',
+    'Antal mål i VM': '160',
     Timestamp: '2018/06/13 10:45:25 pm EET'
   },
   {
@@ -2394,9 +2336,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Argentina',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Neymar',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '169',
+    Skyttekung: 'Neymar',
+    'Antal mål i VM': '169',
     Timestamp: '2018/06/13 11:46:34 pm EET'
   },
   {
@@ -2460,10 +2401,8 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Frankrike',
     'BRONS går till...': 'Tyskland',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Thomas Müller',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '148',
+    Skyttekung: 'Thomas Müller',
+    'Antal mål i VM': '148',
     Timestamp: '2018/06/13 11:48:47 pm EET'
   },
   {
@@ -2527,10 +2466,8 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Frankrike',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'A. Griezmann',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '165',
+    Skyttekung: 'A. Griezmann',
+    'Antal mål i VM': '165',
     Timestamp: '2018/06/14 10:31:24 am EET'
   },
   {
@@ -2594,9 +2531,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Spanien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Neymar',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '156',
+    Skyttekung: 'Neymar',
+    'Antal mål i VM': '156',
     Timestamp: '2018/06/14 12:05:18 pm EET'
   },
   {
@@ -2660,9 +2596,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Frankrike',
     'BRONS går till...': 'Brasilien',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Neymar',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '164',
+    Skyttekung: 'Neymar',
+    'Antal mål i VM': '164',
     Timestamp: '2018/06/14 2:44:28 pm EET'
   },
   {
@@ -2726,10 +2661,8 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Frankrike',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)':
-      'Timo Werner',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '169',
+    Skyttekung: 'Timo Werner',
+    'Antal mål i VM': '169',
     Timestamp: '2018/06/14 3:31:58 pm EET'
   },
   {
@@ -2793,9 +2726,8 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Argentina',
-    'Skyttekung (obs! endast mål, inga målpass, tänk Inzaghi...)': 'Neymar',
-    'UTSLAGSFRÅGA! Antal gjorda mål i VM totalt (straffsparksavgöranden exkluderat)':
-      '157',
+    Skyttekung: 'Neymar',
+    'Antal mål i VM': '157',
     Timestamp: '2018/06/14 4:10:47 pm EET'
   }
 ];

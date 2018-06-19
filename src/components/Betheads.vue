@@ -1,7 +1,7 @@
 <template>
   <thead>
     <tr>
-      <th :key="key" v-for="(value, key) in heads">
+      <th :key="key" v-if="key !== 'Timestamp'" v-for="(value, key) in heads">
         {{key}}
       </th>
     </tr>
