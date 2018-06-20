@@ -103,6 +103,11 @@ const results = {
     result: '1',
     score: '1 - 0',
     points: 1
+  },
+  'Iran - Spanien': {
+    result: '2',
+    score: '0 - 1',
+    points: 1
   }
 };
 

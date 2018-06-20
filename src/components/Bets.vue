@@ -8,7 +8,7 @@
           <betrow v-for="(bet, index) in allBets" :key="index" :bet="bet" />
         </tbody>
         <tfoot>
-          <tr class="table-info">
+          <tr class="table-info" align="justify">
             <th class="sticky-th-bottom" v-for="(result, index) in results" :key="index">{{result.score}}</th>
           </tr>
         </tfoot>
