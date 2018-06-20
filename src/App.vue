@@ -38,6 +38,15 @@ export default {
   margin-bottom: 0;
 }
 
+.table-bordered td,
+.table-bordered th {
+  border-color: #848484;
+}
+
+.table thead th {
+  border-bottom-color: #848484;
+}
+
 th,
 td {
   font-size: 12px;
