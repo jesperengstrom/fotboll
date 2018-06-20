@@ -9,7 +9,7 @@
         </tbody>
         <tfoot>
           <tr class="table-info">
-            <th v-for="(result, index) in results" :key="index">{{result.score}}</th>
+            <th class="sticky-th-bottom" v-for="(result, index) in results" :key="index">{{result.score}}</th>
           </tr>
         </tfoot>
       </table>

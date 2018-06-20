@@ -49,4 +49,23 @@ td {
 td {
   text-align: center;
 }
+
+th.sticky-th-top {
+  position: sticky;
+  top: -1px;
+  z-index: 10;
+}
+
+th.sticky-th-bottom {
+  position: sticky;
+  bottom: 0;
+  z-index: 10;
+}
+
+th.sticky-th-left {
+  position: sticky;
+  left: 0;
+  z-index: 9;
+  background: white;
+}
 </style>

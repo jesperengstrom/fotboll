@@ -1,6 +1,6 @@
 <template>
   <tr>
-    <th v-for="(value, key) in bet" v-if="key === 'Tippare' || key === 'points'" scope="row" :key="key" v-text="value"/>
+    <th class="sticky-th-left" v-for="(value, key) in bet" v-if="key === 'Tippare' || key === 'points'" scope="row" :key="key" v-text="value"/>
     <td v-if="key !== 'Timestamp' && key !== 'Tippare' && key !== 'points'" v-for="(value, key) in bet" :key="key" :class="addBg(value)" v-text="printTd(value)"/>
   </tr>
 </template>

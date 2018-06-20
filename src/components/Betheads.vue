@@ -1,7 +1,7 @@
 <template>
   <thead>
     <tr class="table-info">
-      <th :key="key" v-if="key !== 'Timestamp'" v-for="(value, key) in heads">
+      <th class="sticky-th-top" :key="key" v-if="key !== 'Timestamp'" v-for="(value, key) in heads">
         {{key}}
       </th>
     </tr>
