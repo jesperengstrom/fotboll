@@ -98,6 +98,11 @@ const results = {
     result: '1',
     score: '1 - 0',
     points: 1
+  },
+  'Uruguay - Saudiarabien': {
+    result: '1',
+    score: '1 - 0',
+    points: 1
   }
 };
 
