@@ -18,6 +18,81 @@ const results = {
     result: '2',
     score: '0 - 1',
     points: 1
+  },
+  'Marocko - Iran': {
+    result: '2',
+    score: '0 - 1',
+    points: 1
+  },
+  'Portugal - Spanien': {
+    result: 'X',
+    score: '3 - 3',
+    points: 1
+  },
+  'Frankrike - Australien': {
+    result: '1',
+    score: '2 - 1',
+    points: 1
+  },
+  'Argentina - Island': {
+    result: 'X',
+    score: '1 - 1',
+    points: 1
+  },
+  'Peru - Danmark': {
+    result: '2',
+    score: '0 - 1',
+    points: 1
+  },
+  'Kroatien - Nigeria': {
+    result: '1',
+    score: '2 - 0',
+    points: 1
+  },
+  'Costa Rica - Serbien': {
+    result: '2',
+    score: '0 - 1',
+    points: 1
+  },
+  'Tyskland - Mexiko': {
+    result: '2',
+    score: '0 - 1',
+    points: 1
+  },
+  'Brasilien - Schweiz': {
+    result: 'X',
+    score: '1 - 1',
+    points: 1
+  },
+  'Sverige - Sydkorea': {
+    result: '1',
+    score: '1 - 0',
+    points: 1
+  },
+  'Belgien - Panama': {
+    result: '1',
+    score: '3 - 0',
+    points: 1
+  },
+  'Tunisien - England': {
+    result: '2',
+    score: '1 - 2',
+    points: 1
+  },
+  'Colombia - Japan': {
+    result: '2',
+    score: '1 - 2',
+    points: 1
+  },
+  'Polen - Senegal': {
+    result: '2',
+    score: '1 - 2',
+    points: 1
+  },
+  'Ryssland - Egypten': {
+    result: '1',
+    score: '3 - 1',
+    points: 1
   }
 };
 

@@ -1,6 +1,6 @@
 const bets = [
   {
-    Tippare: 'Caroline  carolinegezelius@gmail.com',
+    Tippare: 'Caroline',
     'Ryssland - Saudiarabien': 'X',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '1',
@@ -57,15 +57,15 @@ const bets = [
     'VINNARE! Grupp F': 'Sverige',
     'VINNARE! Grupp G': 'Belgien',
     'VINNARE! Grupp H': 'Japan',
-    'GULD går till...': 'kroatien ',
-    'SILVER går till...': 'frankrike',
-    'BRONS går till...': 'sverige',
-    Skyttekung: 'Harry Kane',
+    'GULD går till...': 'Kroatien ',
+    'SILVER går till...': 'Frankrike',
+    'BRONS går till...': 'Sverige',
+    'Skyttekung': 'Harry Kane',
     'Antal mål i VM': '52',
     Timestamp: '2018/05/25 2:49:10 pm EET'
   },
   {
-    Tippare: 'Robin Muhr robin.muhr@gmail.com',
+    Tippare: 'Robin Muhr',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -125,12 +125,12 @@ const bets = [
     'GULD går till...': 'Spanien',
     'SILVER går till...': 'Frankrike',
     'BRONS går till...': 'Argentina',
-    Skyttekung: 'Diego Costa',
+    'Skyttekung': 'Diego Costa',
     'Antal mål i VM': '157',
     Timestamp: '2018/05/28 2:25:35 pm EET'
   },
   {
-    Tippare: 'Master C c.ostergren@gmail.com',
+    Tippare: 'Master C',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '2',
@@ -190,12 +190,12 @@ const bets = [
     'GULD går till...': 'Frankrike',
     'SILVER går till...': 'Belgien',
     'BRONS går till...': 'Tyskland',
-    Skyttekung: 'Antoine Griezmann',
+    'Skyttekung': 'Griezmann',
     'Antal mål i VM': '156',
     Timestamp: '2018/05/28 3:12:27 pm EET'
   },
   {
-    Tippare: 'Kungen info@kettner.se',
+    Tippare: 'Kungen',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -255,12 +255,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Belgien',
     'BRONS går till...': 'Brasilien',
-    Skyttekung: 'Ronaldo',
+    'Skyttekung': 'Christiano Ronaldo',
     'Antal mål i VM': '201',
     Timestamp: '2018/06/03 12:15:18 pm EET'
   },
   {
-    Tippare: 'diceupmylife + johannagezelius@hotmail.com',
+    Tippare: 'diceupmylife',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -320,12 +320,12 @@ const bets = [
     'GULD går till...': 'Egypten',
     'SILVER går till...': 'Australien',
     'BRONS går till...': 'Tyskland',
-    Skyttekung: 'Harry Kane',
+    'Skyttekung': 'Harry Kane',
     'Antal mål i VM': '187',
     Timestamp: '2018/06/03 1:58:26 pm EET'
   },
   {
-    Tippare: 'Daniacdamaniac+dsundell@hotmail.com',
+    Tippare: 'Daniacdamaniac',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -385,12 +385,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Frankrike',
     'BRONS går till...': 'Belgien',
-    Skyttekung: 'Griezmann',
+    'Skyttekung': 'Griezmann',
     'Antal mål i VM': '175',
     Timestamp: '2018/06/03 2:22:39 pm EET'
   },
   {
-    Tippare: 'michel.jonasson@outlook.com',
+    Tippare: 'michel',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '1',
@@ -447,15 +447,15 @@ const bets = [
     'VINNARE! Grupp F': 'Tyskland',
     'VINNARE! Grupp G': 'Belgien',
     'VINNARE! Grupp H': 'Colombia',
-    'GULD går till...': 'Argentina ',
-    'SILVER går till...': 'Brasilien ',
-    'BRONS går till...': 'Tyskland ',
-    Skyttekung: 'Gabriel Jesus',
+    'GULD går till...': 'Argentina',
+    'SILVER går till...': 'Brasilien',
+    'BRONS går till...': 'Tyskland',
+    'Skyttekung': 'Gabriel Jesus',
     'Antal mål i VM': '94',
     Timestamp: '2018/06/06 11:47:45 pm EET'
   },
   {
-    Tippare: 'Fjole + strandbergper50@hotmail.se',
+    Tippare: 'Fjole',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': 'X',
     'Marocko - Iran': '1',
@@ -515,12 +515,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Portugal',
     'BRONS går till...': 'Brasilien',
-    Skyttekung: 'Thomas Müller',
+    'Skyttekung': 'Thomas Muller',
     'Antal mål i VM': '137',
     Timestamp: '2018/06/07 10:32:50 am EET'
   },
   {
-    Tippare: 'Marcus + marcusedgar@gmail.com',
+    Tippare: 'Marcus',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -580,12 +580,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Frankrike',
-    Skyttekung: 'Antoine Griezmann',
+    'Skyttekung': 'Griezmann',
     'Antal mål i VM': '144',
     Timestamp: '2018/06/07 12:38:41 pm EET'
   },
   {
-    Tippare: 'Vallepop + idahol@nacka.se',
+    Tippare: 'Vallepop',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '1',
     'Marocko - Iran': 'X',
@@ -645,12 +645,12 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Spanien',
-    Skyttekung: 'Gabriel Jesus',
+    'Skyttekung': 'Gabriel Jesus',
     'Antal mål i VM': '157',
     Timestamp: '2018/06/09 11:20:08 am EET'
   },
   {
-    Tippare: 'Jonas Rosén rosenjonas@gmail.com',
+    Tippare: 'Jonas Rosén',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '1',
     'Marocko - Iran': 'X',
@@ -710,12 +710,12 @@ const bets = [
     'GULD går till...': 'Argentina',
     'SILVER går till...': 'Belgien',
     'BRONS går till...': 'Frankrike',
-    Skyttekung: 'Messi',
+    'Skyttekung': 'Messi',
     'Antal mål i VM': '118',
     Timestamp: '2018/06/10 7:59:55 am EET'
   },
   {
-    Tippare: 'Joshua + jockegranberg@gmail.com',
+    Tippare: 'Joshua',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': 'X',
     'Marocko - Iran': '2',
@@ -775,12 +775,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Argentina',
     'BRONS går till...': 'Spanien',
-    Skyttekung: 'Messi',
+    'Skyttekung': 'Messi',
     'Antal mål i VM': '46',
     Timestamp: '2018/06/10 12:41:44 pm EET'
   },
   {
-    Tippare: 'fredrikaskebris@gmail.com',
+    Tippare: 'fredrik askebris',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -840,12 +840,12 @@ const bets = [
     'GULD går till...': 'Belgien',
     'SILVER går till...': 'Spanien',
     'BRONS går till...': 'Tyskland',
-    Skyttekung: 'Eden hazard',
+    'Skyttekung': 'Eden Hazard',
     'Antal mål i VM': '169',
     Timestamp: '2018/06/10 1:09:42 pm EET'
   },
   {
-    Tippare: 'Jim Lennerhed jimlennerhed@gmail.com',
+    Tippare: 'Jim Lennerhed',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '2',
@@ -905,12 +905,12 @@ const bets = [
     'GULD går till...': 'Belgien',
     'SILVER går till...': 'Argentina',
     'BRONS går till...': 'Spanien',
-    Skyttekung: 'Neymar',
+    'Skyttekung': 'Neymar',
     'Antal mål i VM': '162',
     Timestamp: '2018/06/10 3:39:00 pm EET'
   },
   {
-    Tippare: 'Jonatan ”Gropzwick” Blom Ramel jonatan.blomramel@gmail.com',
+    Tippare: 'Jonatan ”Gropzwick” Blom Ramel',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '1',
@@ -970,12 +970,12 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Frankrike',
     'BRONS går till...': 'Argentina',
-    Skyttekung: 'Gabriel Jesus',
+    'Skyttekung': 'Gabriel Jesus',
     'Antal mål i VM': '165',
     Timestamp: '2018/06/10 6:25:53 pm EET'
   },
   {
-    Tippare: 'Daniel Taube danieltaube@gmail.com',
+    Tippare: 'Daniel Taube',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -1035,12 +1035,12 @@ const bets = [
     'GULD går till...': 'Frankrike',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Schweiz',
-    Skyttekung: 'Kylian Mbappé',
+    'Skyttekung': 'Kylian Mbappé',
     'Antal mål i VM': '143',
     Timestamp: '2018/06/11 9:12:13 am EET'
   },
   {
-    Tippare: 'Micke Berlin/ micke_berlin@hotmail.com',
+    Tippare: 'Micke Berlin',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '1',
@@ -1100,12 +1100,12 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Argentina',
     'BRONS går till...': 'Tyskland',
-    Skyttekung: 'Lionel Messi',
+    'Skyttekung': 'Messi',
     'Antal mål i VM': '164',
     Timestamp: '2018/06/11 11:35:55 am EET'
   },
   {
-    Tippare: 'Karpius, karsten.ostlund@gmail.com',
+    Tippare: 'Karpius',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -1165,12 +1165,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Belgien',
-    Skyttekung: 'Robert Lewandowski',
+    'Skyttekung': 'Lewandowski',
     'Antal mål i VM': '126',
     Timestamp: '2018/06/11 5:06:48 pm EET'
   },
   {
-    Tippare: 'Mia Kerschinsky mia.kerschinsky@gmail.com',
+    Tippare: 'Mia Kerschinsky',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '2',
@@ -1230,12 +1230,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Belgien',
-    Skyttekung: 'Timo Werner',
+    'Skyttekung': 'Timo Werner',
     'Antal mål i VM': '141',
     Timestamp: '2018/06/11 8:03:59 pm EET'
   },
   {
-    Tippare: 'David Linnros davidlinnros@yahoo.se',
+    Tippare: 'David Linnros',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -1295,12 +1295,12 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Argentina',
-    Skyttekung: 'Neymar',
+    'Skyttekung': 'Neymar',
     'Antal mål i VM': '163',
     Timestamp: '2018/06/11 11:01:10 pm EET'
   },
   {
-    Tippare: 'Sylla sylvia.rodeback@awlark.se',
+    Tippare: 'Sylla',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '1',
@@ -1360,12 +1360,12 @@ const bets = [
     'GULD går till...': 'Argentina',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'England',
-    Skyttekung: 'Neymar',
+    'Skyttekung': 'Neymar',
     'Antal mål i VM': '143',
     Timestamp: '2018/06/12 3:58:41 pm EET'
   },
   {
-    Tippare: 'Claes Hamilton + hamiltonclaes@gmail.com',
+    Tippare: 'Claes Hamilton',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': 'X',
     'Marocko - Iran': '1',
@@ -1425,12 +1425,12 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Spanien',
     'BRONS går till...': 'Frankrike',
-    Skyttekung: 'Romelu Lukaku',
+    'Skyttekung': 'Lukaku',
     'Antal mål i VM': '162',
     Timestamp: '2018/06/12 6:43:41 pm EET'
   },
   {
-    Tippare: 'Hunky Dory + tapioleopold@hotmail.com',
+    Tippare: 'Hunky Dory',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '1',
@@ -1490,12 +1490,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Frankrike',
-    Skyttekung: 'Lionel Messi',
+    'Skyttekung': 'Messi',
     'Antal mål i VM': '160',
     Timestamp: '2018/06/12 7:14:58 pm EET'
   },
   {
-    Tippare: 'olof, olof.kihlberg@gmail.com',
+    Tippare: 'olof',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': 'X',
     'Marocko - Iran': '2',
@@ -1555,12 +1555,12 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Argentina',
-    Skyttekung: 'Thomas Müller',
+    'Skyttekung': 'Thomas Muller',
     'Antal mål i VM': '420',
     Timestamp: '2018/06/12 9:03:28 pm EET'
   },
   {
-    Tippare: 'Lukas Frösslund, frosslundl@gmail.com',
+    Tippare: 'Lukas Frösslund',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '1',
@@ -1620,12 +1620,12 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Kroatien',
-    Skyttekung: 'Neymar, med Mandzukic tätt bakom',
+    'Skyttekung': 'Neymar',
     'Antal mål i VM': '151',
     Timestamp: '2018/06/12 9:51:11 pm EET'
   },
   {
-    Tippare: 'BC#13 mymelander@gmail.com',
+    Tippare: 'BC#13',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -1685,12 +1685,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Frankrike',
-    Skyttekung: 'Thomas Müller',
+    'Skyttekung': 'Thomas Muller',
     'Antal mål i VM': '157',
     Timestamp: '2018/06/12 10:14:20 pm EET'
   },
   {
-    Tippare: 'Anna Odenhall odenfilms@gmail.com',
+    Tippare: 'Anna Odenhall',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '1',
@@ -1747,15 +1747,15 @@ const bets = [
     'VINNARE! Grupp F': 'Tyskland',
     'VINNARE! Grupp G': 'England',
     'VINNARE! Grupp H': 'Colombia',
-    'GULD går till...': ' Brazilien',
+    'GULD går till...': ' Brasilien',
     'SILVER går till...': 'Portugal ',
     'BRONS går till...': 'Danmark',
-    Skyttekung: 'Christianio Ronaldo',
+    'Skyttekung': 'Christiano Ronaldo',
     'Antal mål i VM': '166',
     Timestamp: '2018/06/13 2:17:30 am EET'
   },
   {
-    Tippare: 'Matilda Göransson + matilda.goransson@live.se',
+    Tippare: 'Matilda Göransson',
     'Ryssland - Saudiarabien': '2',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '2',
@@ -1815,12 +1815,12 @@ const bets = [
     'GULD går till...': 'Spanien',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Tyskland',
-    Skyttekung: 'Thomas Muller ',
+    'Skyttekung': 'Thomas Muller',
     'Antal mål i VM': '2401',
     Timestamp: '2018/06/13 8:45:10 am EET'
   },
   {
-    Tippare: 'Robert Karlsson robertcarl@gmail.com',
+    Tippare: 'Robert Karlsson',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -1880,12 +1880,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Spanien',
-    Skyttekung: 'Christiano Ronaldo',
+    'Skyttekung': 'Christiano Ronaldo',
     'Antal mål i VM': '165',
     Timestamp: '2018/06/13 10:58:30 am EET'
   },
   {
-    Tippare: 'Ulf Ekroth ulf.ekroth@gmail.com',
+    Tippare: 'Ulf Ekroth',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '1',
@@ -1945,12 +1945,12 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Spanien',
-    Skyttekung: 'Neymar',
+    'Skyttekung': 'Neymar',
     'Antal mål i VM': '140',
     Timestamp: '2018/06/13 2:42:16 pm EET'
   },
   {
-    Tippare: 'impotens + valdemar.gezelius@gmail.com',
+    Tippare: 'impotens',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': 'X',
     'Marocko - Iran': 'X',
@@ -2010,12 +2010,12 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Kroatien',
-    Skyttekung: 'Gabriel Jesus',
+    'Skyttekung': 'Gabriel Jesus',
     'Antal mål i VM': '159',
     Timestamp: '2018/06/13 5:26:41 pm EET'
   },
   {
-    Tippare: 'David Johansson     P.david.johansson@gmail.com',
+    Tippare: 'David Johansson',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '2',
@@ -2075,12 +2075,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Spanien',
-    Skyttekung: 'Thomas Muller',
+    'Skyttekung': 'Thomas Muller',
     'Antal mål i VM': '127',
     Timestamp: '2018/06/13 6:49:49 pm EET'
   },
   {
-    Tippare: 'Rowland + klara.leopold@awlark.se',
+    Tippare: 'Rowland',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '1',
@@ -2140,13 +2140,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Frankrike',
-    Skyttekung: 'Thomas Muller',
+    'Skyttekung': 'Thomas Muller',
     'Antal mål i VM': '158',
     Timestamp: '2018/06/13 7:36:25 pm EET'
   },
   {
-    Tippare:
-      'miss_percy & haffskatten, (nick på detta tips: Pernilla&Jonas) pernilla.regner@gmail.com',
+    Tippare: 'Pernilla&Jonas',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': 'X',
     'Marocko - Iran': '2',
@@ -2206,12 +2205,12 @@ const bets = [
     'GULD går till...': 'Agentina',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Tyskland',
-    Skyttekung: 'Harry Kane',
+    'Skyttekung': 'Harry Kane',
     'Antal mål i VM': '183',
     Timestamp: '2018/06/13 8:34:36 pm EET'
   },
   {
-    Tippare: 'Antonage gezelius.anton@gmail.com',
+    Tippare: 'Antonage',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': 'X',
     'Marocko - Iran': '1',
@@ -2271,12 +2270,12 @@ const bets = [
     'GULD går till...': 'Brasilien ',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'England',
-    Skyttekung: 'Messi ',
+    'Skyttekung': 'Messi',
     'Antal mål i VM': '160',
     Timestamp: '2018/06/13 10:45:25 pm EET'
   },
   {
-    Tippare: 'Camila Galdamez + camgaldamezgarcia@gmail.com',
+    Tippare: 'Camila Galdamez',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -2336,12 +2335,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Argentina',
-    Skyttekung: 'Neymar',
+    'Skyttekung': 'Neymar',
     'Antal mål i VM': '169',
     Timestamp: '2018/06/13 11:46:34 pm EET'
   },
   {
-    Tippare: 'tåpaj+sgezelius@gmail.com',
+    Tippare: 'tåpaj',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '1',
@@ -2401,12 +2400,12 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Frankrike',
     'BRONS går till...': 'Tyskland',
-    Skyttekung: 'Thomas Müller',
+    'Skyttekung': 'Thomas Müller',
     'Antal mål i VM': '148',
     Timestamp: '2018/06/13 11:48:47 pm EET'
   },
   {
-    Tippare: 'Daniel Ottosson daniel.ottosson@gmail.com',
+    Tippare: 'Daniel Ottosson',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -2466,12 +2465,12 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Frankrike',
-    Skyttekung: 'A. Griezmann',
+    'Skyttekung': 'Griezmann',
     'Antal mål i VM': '165',
     Timestamp: '2018/06/14 10:31:24 am EET'
   },
   {
-    Tippare: 'Johannes Karlsson + erikjohanneskarlsson@gmail.com',
+    Tippare: 'Johannes Karlsson',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -2531,12 +2530,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Spanien',
-    Skyttekung: 'Neymar',
+    'Skyttekung': 'Neymar',
     'Antal mål i VM': '156',
     Timestamp: '2018/06/14 12:05:18 pm EET'
   },
   {
-    Tippare: 'Hannes Bergdahl + hannes.bergdahl@gmail.com',
+    Tippare: 'Hannes Bergdahl',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -2596,12 +2595,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Frankrike',
     'BRONS går till...': 'Brasilien',
-    Skyttekung: 'Neymar',
+    'Skyttekung': 'Neymar',
     'Antal mål i VM': '164',
     Timestamp: '2018/06/14 2:44:28 pm EET'
   },
   {
-    Tippare: 'Roligbarn stefangarnbeck@gmail.com',
+    Tippare: 'Roligbarn',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': 'X',
@@ -2661,12 +2660,12 @@ const bets = [
     'GULD går till...': 'Tyskland',
     'SILVER går till...': 'Brasilien',
     'BRONS går till...': 'Frankrike',
-    Skyttekung: 'Timo Werner',
+    'Skyttekung': 'Timo Werner',
     'Antal mål i VM': '169',
     Timestamp: '2018/06/14 3:31:58 pm EET'
   },
   {
-    Tippare: 'Patric Hjorth, patric.hjorth@gmail.com',
+    Tippare: 'Patric Hjorth',
     'Ryssland - Saudiarabien': '1',
     'Egypten - Uruguay': '2',
     'Marocko - Iran': '2',
@@ -2726,7 +2725,7 @@ const bets = [
     'GULD går till...': 'Brasilien',
     'SILVER går till...': 'Tyskland',
     'BRONS går till...': 'Argentina',
-    Skyttekung: 'Neymar',
+    'Skyttekung': 'Neymar',
     'Antal mål i VM': '157',
     Timestamp: '2018/06/14 4:10:47 pm EET'
   }
