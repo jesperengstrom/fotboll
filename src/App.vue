@@ -34,14 +34,19 @@ export default {
   background-color: white;
 }
 
+.table {
+  margin-bottom: 0;
+}
+
 th,
 td {
+  font-size: 12px;
   max-width: 300px;
   overflow: hidden;
   white-space: nowrap;
 }
 
-th {
-  font-size: 12px;
+td {
+  text-align: center;
 }
 </style>
