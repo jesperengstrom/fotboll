@@ -30,4 +30,13 @@ export default {
 </script>
 
 <style>
+.table-hover tbody tr:hover {
+  opacity: 0.8;
+}
+.table-hover .table-danger:hover {
+  background-color: #f5c6cb;
+}
+.table-hover .table-success:hover {
+  background-color: #c3e6cb;
+}
 </style>
