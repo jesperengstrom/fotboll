@@ -17,6 +17,7 @@ export default {
 #loading-container {
   width: 100%;
   height: 100%;
+  height: -webkit-fill-available;
   display: flex;
   justify-content: center;
   align-items: center;

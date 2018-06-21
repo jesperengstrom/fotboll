@@ -1,9 +1,6 @@
 <template>
   <div id="app">
-    <h1 class="text-center">Leogezlen ⚽</h1>
-      <main id="main" class="container-fluid">
-        <bets/>
-      </main>
+      <bets/>
   </div>
 </template>
 
@@ -25,17 +22,9 @@ export default {
   background-color: rgba(237, 243, 237, 0.3);
 }
 
-#main {
-  margin-top: 10px;
-  height: 90vh;
-  width: 95vw;
-  padding: 0;
-  overflow: scroll;
-  background-color: white;
-}
-
 .table {
   margin-bottom: 0;
+  border-top: 0;
 }
 
 .table-bordered td,
@@ -63,6 +52,7 @@ th.sticky-th-top {
   position: sticky;
   top: -1px;
   z-index: 10;
+  border-top: none;
 }
 
 th.sticky-th-bottom {

@@ -22,7 +22,7 @@ export default {
     addBg (val) {
       if (val.hasOwnProperty('correct')) {
         return val.correct ? 'table-success' : 'table-danger';
-      } else return '';
+      } else return 'table-white';
     }
   },
   computed: {}
@@ -30,6 +30,9 @@ export default {
 </script>
 
 <style>
+.table-white {
+  background-color: white;
+}
 .table-hover tbody tr:hover {
   opacity: 0.8;
 }

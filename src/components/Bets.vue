@@ -1,5 +1,9 @@
 <template>
-  <div>
+  <main>
+    <div id="logo">
+      <h1 class="text-center">Leogezlen ⚽</h1>
+    </div>
+    <section class="content">
     <loading v-show="allBets.length === 0" />
     <transition name="fade">
       <table v-show="allBets.length > 0" class="table table-bordered table-hover table-sm">
@@ -14,7 +18,8 @@
         </tfoot>
       </table>
     </transition>
-  </div>
+    </section>
+  </main>
 </template>
 
 <script>
@@ -99,6 +104,18 @@ export default {
 </script>
 
 <style>
+#logo {
+  top: 0;
+  height: 50px;
+  position: fixed;
+  background: white;
+  width: 100%;
+  z-index: -1;
+  background-color: #bee5eb;
+}
+.content {
+  margin-top: 50px;
+}
 .fade-enter-active,
 .fade-leave-active {
   transition: opacity 0.5s;
