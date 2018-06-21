@@ -108,6 +108,11 @@ const results = {
     result: '2',
     score: '0 - 1',
     points: 1
+  },
+  'Danmark - Australien': {
+    result: 'X',
+    score: '1 - 1',
+    points: 1
   }
 };
 
