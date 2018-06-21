@@ -113,6 +113,16 @@ const results = {
     result: 'X',
     score: '1 - 1',
     points: 1
+  },
+  'Frankrike - Peru': {
+    result: '1',
+    score: '1 - 0',
+    points: 1
+  },
+  'Argentina - Kroatien': {
+    result: '2',
+    score: '0 - 3',
+    points: 1
   }
 };
 
