@@ -3,8 +3,8 @@
     <h1 id="logo" class="text-center">Leogezlen ⚽</h1>
     <main id="main" class="container-fluid">
       <bets/>
-      _ Regler: rätt tippat resultat - 1p; rätt tippad gruppvinnare - 2p;
-      rätt tippad medaljör - 2p; rätt tippad skyttekung - 3p
+      <p id="rules">_ Regler: rätt tippat resultat - 1p; rätt tippad gruppvinnare - 2p;
+      rätt tippad medaljör - 2p; rätt tippad skyttekung - 3p</p>
     </main>
   </div>
 </template>
@@ -27,10 +27,8 @@ export default {
   padding-bottom: 10px;
 }
 
-#bottom {
-  background-color: #ffffff;
-  margin: 0;
-  padding-bottom: 10px;
+#rules {
+  font-size: 75%;
 }
 
 .content {
