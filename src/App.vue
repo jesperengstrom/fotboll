@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <h1 id="logo" class="text-center">Leogezlen ⚽</h1>
+    <p id="logo" class="text-center" style="font-size:70%;">Regler: rätt tippat resultat - 1p; rätt tippad gruppvinnare - 2p; rätt tippad medaljör - 2p; rätt tippad skyttekung - 3p</p>
     <main id="main" class="container-fluid">
       <bets/>
 -   </main>
