@@ -128,6 +128,11 @@ const results = {
     result: '1',
     score: '2 - 0',
     points: 1
+  },
+  'Nigeria - Island': {
+    result: '1',
+    score: '2 - 0',
+    points: 1
   }
 };
 
