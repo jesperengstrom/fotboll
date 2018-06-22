@@ -1,6 +1,9 @@
 <template>
   <div id="app">
+    <h1 id="logo" class="text-center">Leogezlen ⚽</h1>
+    <main id="main" class="container-fluid">
       <bets/>
+-   </main>
   </div>
 </template>
 
@@ -16,6 +19,22 @@ export default {
 </script>
 
 <style>
+#logo {
+  background-color: #bee5eb;
+  margin: 0;
+  padding-bottom: 10px;
+}
+.content {
+  margin-top: 50px;
+}
+#main {
+  height: 90vh;
+  width: 100vw;
+  padding: 0;
+  overflow: scroll;
+  background-color: white;
+}
+
 #app {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
