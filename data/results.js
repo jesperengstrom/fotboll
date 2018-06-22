@@ -123,6 +123,11 @@ const results = {
     result: '2',
     score: '0 - 3',
     points: 1
+  },
+  'Brasilien - Costa Rica': {
+    result: '1',
+    score: '2 - 0',
+    points: 1
   }
 };
 
