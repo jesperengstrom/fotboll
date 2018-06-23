@@ -143,6 +143,11 @@ const results = {
     result: '1',
     score: '5 - 2',
     points: 1
+  },
+  'Sydkorea - Mexiko': {
+    result: '2',
+    score: '1 - 2',
+    points: 1
   }
 };
 
