@@ -168,6 +168,151 @@ const results = {
     result: '2',
     score: '0 - 3',
     points: 1
+  },
+  'gruppAomg3a': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppAomg3b': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppBomg3a': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppBomg3b': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppComg3a': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppComg3b': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppDomg3a': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppDomg3b': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppEomg3a': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppEomg3b': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppFomg3a': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppFomg3b': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppGomg3a': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppGomg3b': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppHomg3a': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gruppHomg3b': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'winA': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'winB': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'winC': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'winD': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'winEd': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'winF': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'winG': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'winH': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'gold': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'silver': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'bronze': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'topscorer': {
+    result: '',
+    score: '',
+    points: 0
+  },
+  'goalstot': {
+    result: '',
+    score: '',
+    points: 0
   }
 };
 
