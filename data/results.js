@@ -163,6 +163,11 @@ const results = {
     result: 'X',
     score: '2 - 2',
     points: 1
+  },
+  'Polen - Colombia': {
+    result: '2',
+    score: '0 - 3',
+    points: 1
   }
 };
 
