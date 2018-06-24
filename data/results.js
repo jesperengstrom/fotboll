@@ -158,6 +158,11 @@ const results = {
     result: '1',
     score: '6 - 1',
     points: 1
+  },
+  'Japan - Senegal': {
+    result: 'X',
+    score: '2 - 2',
+    points: 1
   }
 };
 
