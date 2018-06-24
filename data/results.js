@@ -153,6 +153,11 @@ const results = {
     result: '1',
     score: '2 - 1',
     points: 1
+  },
+  'England - Panama': {
+    result: '1',
+    score: '6 - 1',
+    points: 1
   }
 };
 
