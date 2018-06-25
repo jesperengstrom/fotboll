@@ -179,15 +179,15 @@ const results = {
     score: '3 - 0',
     points: 1
   },
-  'gruppBomg3a': {
-    result: '',
-    score: '',
-    points: 0
+  'Spanien - Marocko': {
+    result: 'X',
+    score: '2 - 2',
+    points: 1
   },
-  'gruppBomg3b': {
-    result: '',
-    score: '',
-    points: 0
+  'Iran - Portugal': {
+    result: 'X',
+    score: '1 - 1',
+    points: 1
   },
   'gruppComg3a': {
     result: '',
@@ -254,10 +254,10 @@ const results = {
     score: 'Uruguay',
     points: 2
   },
-  'winB': {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp B': {
+    result: 'Spanien',
+    score: 'Spanien',
+    points: 2
   },
   'winC': {
     result: '',
