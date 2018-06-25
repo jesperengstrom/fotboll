@@ -189,62 +189,62 @@ const results = {
     score: '1 - 1',
     points: 1
   },
-  'gruppComg3a': {
+  gruppComg3a: {
     result: '',
     score: '',
     points: 0
   },
-  'gruppComg3b': {
+  gruppComg3b: {
     result: '',
     score: '',
     points: 0
   },
-  'gruppDomg3a': {
+  gruppDomg3a: {
     result: '',
     score: '',
     points: 0
   },
-  'gruppDomg3b': {
+  gruppDomg3b: {
     result: '',
     score: '',
     points: 0
   },
-  'gruppEomg3a': {
+  gruppEomg3a: {
     result: '',
     score: '',
     points: 0
   },
-  'gruppEomg3b': {
+  gruppEomg3b: {
     result: '',
     score: '',
     points: 0
   },
-  'gruppFomg3a': {
+  gruppFomg3a: {
     result: '',
     score: '',
     points: 0
   },
-  'gruppFomg3b': {
+  gruppFomg3b: {
     result: '',
     score: '',
     points: 0
   },
-  'gruppGomg3a': {
+  gruppGomg3a: {
     result: '',
     score: '',
     points: 0
   },
-  'gruppGomg3b': {
+  gruppGomg3b: {
     result: '',
     score: '',
     points: 0
   },
-  'gruppHomg3a': {
+  gruppHomg3a: {
     result: '',
     score: '',
     points: 0
   },
-  'gruppHomg3b': {
+  gruppHomg3b: {
     result: '',
     score: '',
     points: 0
@@ -259,61 +259,63 @@ const results = {
     score: 'Spanien',
     points: 2
   },
-  'winC': {
+  winC: {
     result: '',
     score: '',
     points: 0
   },
-  'winD': {
+  winD: {
     result: '',
     score: '',
     points: 0
   },
-  'winEd': {
+  winEd: {
     result: '',
     score: '',
     points: 0
   },
-  'winF': {
+  winF: {
     result: '',
     score: '',
     points: 0
   },
-  'winG': {
+  winG: {
     result: '',
     score: '',
     points: 0
   },
-  'winH': {
+  winH: {
     result: '',
     score: '',
     points: 0
   },
-  'gold': {
+  gold: {
     result: '',
     score: '',
     points: 0
   },
-  'silver': {
+  silver: {
     result: '',
     score: '',
     points: 0
   },
-  'bronze': {
+  bronze: {
     result: '',
     score: '',
     points: 0
   },
-  'topscorer': {
+  topscorer: {
     result: '',
     score: '',
     points: 0
   },
-  'goalstot': {
+  goalstot: {
     result: '',
     score: '',
     points: 0
   }
 };
+
+export const winner = false;
 
 export default results;
