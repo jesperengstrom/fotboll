@@ -169,15 +169,15 @@ const results = {
     score: '0 - 3',
     points: 1
   },
-  'gruppAomg3a': {
-    result: '',
-    score: '',
-    points: 0
+  'Saudiarabien - Egypten': {
+    result: '1',
+    score: '2 - 1',
+    points: 1
   },
-  'gruppAomg3b': {
-    result: '',
-    score: '',
-    points: 0
+  'Uruguay - Ryssland': {
+    result: '1',
+    score: '3 - 0',
+    points: 1
   },
   'gruppBomg3a': {
     result: '',
@@ -249,10 +249,10 @@ const results = {
     score: '',
     points: 0
   },
-  'winA': {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp A': {
+    result: 'Uruguay',
+    score: 'Uruguay',
+    points: 2
   },
   'winB': {
     result: '',
