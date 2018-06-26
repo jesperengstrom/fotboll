@@ -189,15 +189,15 @@ const results = {
     score: '1 - 1',
     points: 1
   },
-  gruppComg3a: {
-    result: '',
-    score: '',
-    points: 0
+  'Danmark - Frankrike': {
+    result: 'X',
+    score: '0 - 0',
+    points: 1
   },
-  gruppComg3b: {
-    result: '',
-    score: '',
-    points: 0
+  'Australien - Peru': {
+    result: '2',
+    score: '0 - 2',
+    points: 1
   },
   gruppDomg3a: {
     result: '',
@@ -259,17 +259,17 @@ const results = {
     score: 'Spanien',
     points: 2
   },
-  winC: {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp C': {
+    result: 'Frankrike',
+    score: 'Frankrike',
+    points: 2
   },
   winD: {
     result: '',
     score: '',
     points: 0
   },
-  winEd: {
+  winE: {
     result: '',
     score: '',
     points: 0
