@@ -219,15 +219,15 @@ const results = {
     score: '2 - 0',
     points: 1
   },
-  gruppFomg3a: {
-    result: '',
-    score: '',
-    points: 0
+  'Serbien - Brasilien': {
+    result: '2',
+    score: '0 - 2',
+    points: 1
   },
-  gruppFomg3b: {
-    result: '',
-    score: '',
-    points: 0
+  'Schweiz - Costa Rica': {
+    result: 'X',
+    score: '2 - 2',
+    points: 1
   },
   gruppGomg3a: {
     result: '',
@@ -269,10 +269,10 @@ const results = {
     score: 'Kroatien',
     points: 2
   },
-  winE: {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp E': {
+    result: 'Brasilien',
+    score: 'Brasilien',
+    points: 2
   },
   'VINNARE! Grupp F': {
     result: 'Sverige',
