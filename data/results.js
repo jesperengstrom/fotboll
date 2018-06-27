@@ -209,15 +209,15 @@ const results = {
     score: '1 - 2',
     points: 1
   },
-  gruppEomg3a: {
-    result: '',
-    score: '',
-    points: 0
+  'Mexiko - Sverige': {
+    result: '2',
+    score: '0 - 3',
+    points: 1
   },
-  gruppEomg3b: {
-    result: '',
-    score: '',
-    points: 0
+  'Sydkorea - Tyskland': {
+    result: '1',
+    score: '2 - 0',
+    points: 1
   },
   gruppFomg3a: {
     result: '',
@@ -274,10 +274,10 @@ const results = {
     score: '',
     points: 0
   },
-  winF: {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp F': {
+    result: 'Sverige',
+    score: 'Sverige',
+    points: 2
   },
   winG: {
     result: '',
