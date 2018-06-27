@@ -199,15 +199,15 @@ const results = {
     score: '0 - 2',
     points: 1
   },
-  gruppDomg3a: {
-    result: '',
-    score: '',
-    points: 0
+  'Island - Kroatien': {
+    result: '2',
+    score: '1 - 2',
+    points: 1
   },
-  gruppDomg3b: {
-    result: '',
-    score: '',
-    points: 0
+  'Nigeria - Argentina': {
+    result: '2',
+    score: '1 - 2',
+    points: 1
   },
   gruppEomg3a: {
     result: '',
@@ -264,10 +264,10 @@ const results = {
     score: 'Frankrike',
     points: 2
   },
-  winD: {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp D': {
+    result: 'Kroatien',
+    score: 'Kroatien',
+    points: 2
   },
   winE: {
     result: '',
