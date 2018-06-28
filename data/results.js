@@ -199,55 +199,55 @@ const results = {
     score: '0 - 2',
     points: 1
   },
-  gruppDomg3a: {
-    result: '',
-    score: '',
+  'Island - Kroatien': {
+    result: '2',
+    score: '1 - 2',
+    points: 1
+  },
+  'Nigeria - Argentina': {
+    result: '2',
+    score: '1 - 2',
+    points: 1
+  },
+  'Mexiko - Sverige': {
+    result: '2',
+    score: '0 - 3',
+    points: 1
+  },
+  'Sydkorea - Tyskland': {
+    result: '1',
+    score: '2 - 0',
+    points: 1
+  },
+  'Serbien - Brasilien': {
+    result: '2',
+    score: '0 - 2',
+    points: 1
+  },
+  'Schweiz - Costa Rica': {
+    result: 'X',
+    score: '2 - 2',
+    points: 1
+  },
+  'Japan - Polen': {
+    result: '2',
+    score: '0 - 1',
+    points: 1
+  },
+  'Senegal - Colombia': {
+    result: '2',
+    score: '0 - 1',
+    points: 1
+  },
+  'Panama - Tunisien': {
+    result: '2',
+    score: '1 - 2',
     points: 0
   },
-  gruppDomg3b: {
-    result: '',
-    score: '',
-    points: 0
-  },
-  gruppEomg3a: {
-    result: '',
-    score: '',
-    points: 0
-  },
-  gruppEomg3b: {
-    result: '',
-    score: '',
-    points: 0
-  },
-  gruppFomg3a: {
-    result: '',
-    score: '',
-    points: 0
-  },
-  gruppFomg3b: {
-    result: '',
-    score: '',
-    points: 0
-  },
-  gruppGomg3a: {
-    result: '',
-    score: '',
-    points: 0
-  },
-  gruppGomg3b: {
-    result: '',
-    score: '',
-    points: 0
-  },
-  gruppHomg3a: {
-    result: '',
-    score: '',
-    points: 0
-  },
-  gruppHomg3b: {
-    result: '',
-    score: '',
-    points: 0
+  'England - Belgien': {
+    result: '2',
+    score: '0 - 1',
+    points: 1
   },
   'VINNARE! Grupp A': {
     result: 'Uruguay',
@@ -264,30 +264,30 @@ const results = {
     score: 'Frankrike',
     points: 2
   },
-  winD: {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp D': {
+    result: 'Kroatien',
+    score: 'Kroatien',
+    points: 2
   },
-  winE: {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp E': {
+    result: 'Brasilien',
+    score: 'Brasilien',
+    points: 2
   },
-  winF: {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp F': {
+    result: 'Sverige',
+    score: 'Sverige',
+    points: 2
   },
-  winG: {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp G': {
+    result: 'Belgien',
+    score: 'Belgien',
+    points: 2
   },
-  winH: {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp H': {
+    result: 'Colombia',
+    score: 'Colombia',
+    points: 2
   },
   gold: {
     result: '',
