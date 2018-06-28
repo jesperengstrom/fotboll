@@ -239,15 +239,15 @@ const results = {
     score: '0 - 1',
     points: 1
   },
-  gruppHomg3a: {
-    result: '',
-    score: '',
+  'Panama - Tunisien': {
+    result: '2',
+    score: '1 - 2',
     points: 0
   },
-  gruppHomg3b: {
-    result: '',
-    score: '',
-    points: 0
+  'England - Belgien': {
+    result: '2',
+    score: '0 - 1',
+    points: 1
   },
   'VINNARE! Grupp A': {
     result: 'Uruguay',
