@@ -316,6 +316,12 @@ const results = {
   }
 };
 
+// export const winner = {
+//   set: true,
+//   gold: 'Åke',
+//   silver: 'Maja',
+//   bronze: 'Stig'
+// };
 export const winner = false;
 
 export default results;
