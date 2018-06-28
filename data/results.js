@@ -229,15 +229,15 @@ const results = {
     score: '2 - 2',
     points: 1
   },
-  gruppGomg3a: {
-    result: '',
-    score: '',
-    points: 0
+  'Japan - Polen': {
+    result: '2',
+    score: '0 - 1',
+    points: 1
   },
-  gruppGomg3b: {
-    result: '',
-    score: '',
-    points: 0
+  'Senegal - Colombia': {
+    result: '2',
+    score: '0 - 1',
+    points: 1
   },
   gruppHomg3a: {
     result: '',
@@ -284,10 +284,10 @@ const results = {
     score: '',
     points: 0
   },
-  winH: {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp H': {
+    result: 'Colombia',
+    score: 'Colombia',
+    points: 2
   },
   gold: {
     result: '',
