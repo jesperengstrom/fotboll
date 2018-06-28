@@ -279,10 +279,10 @@ const results = {
     score: 'Sverige',
     points: 2
   },
-  winG: {
-    result: '',
-    score: '',
-    points: 0
+  'VINNARE! Grupp G': {
+    result: 'Belgien',
+    score: 'Belgien',
+    points: 2
   },
   'VINNARE! Grupp H': {
     result: 'Colombia',
