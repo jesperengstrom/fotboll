@@ -2,8 +2,14 @@
 <div class="pyro">
   <div class="before"></div>
   <div class="after"></div>
+  <img src="../assets/gif1.gif" class="winnergif winnergif--lt">
+  <img src="../assets/gif2.gif" class="winnergif winnergif--rb">
+  <img src="../assets/gif3.gif" class="winnergif winnergif--lb">
+    <img src="../assets/gif4.gif" class="winnergif winnergif--rt">
   <div class="winner-header">
-    <h1 v-show="winner">Grattis {{winner}}</h1>
+    <h1>🏅 {{winner.gold}}</h1>
+    <h2>🥈 {{winner.silver}}</h2>
+    <h3>🥉 {{winner.bronze}}</h3>
   </div>
 </div>
 </template>
@@ -12,7 +18,7 @@
 export default {
   name: 'Winner',
   props: {
-    winner: String
+    winner: Object
   }
 };
 </script>
@@ -21,26 +27,65 @@ export default {
 .winner-header {
   position: absolute;
   width: 100%;
-  top: 50%;
+  top: 25%;
+}
+
+.winner-header > * {
+  animation: zoom 10s linear infinite;
+  text-align: center;
+  margin: 40px 0;
 }
 
 .winner-header h1 {
   font-size: 80px;
-  text-align: center;
   color: gold;
-  animation: blink 1s linear infinite;
 }
 
-@keyframes blink {
+.winner-header h2 {
+  font-size: 60px;
+  color: silver;
+}
+
+.winner-header h3 {
+  font-size: 40px;
+  color: #e26e2f;
+}
+
+@keyframes zoom {
   0% {
-    opacity: 0;
+    transform: scale(1);
   }
   50% {
-    opacity: 0.5;
+    transform: scale(3);
   }
   100% {
-    opacity: 1;
+    transform: scale(1);
   }
+}
+
+.winnergif {
+  position: absolute;
+  width: 300px;
+}
+
+.winnergif--lt {
+  top: 20px;
+  left: 20px;
+}
+
+.winnergif--rb {
+  right: 20px;
+  bottom: 20px;
+}
+
+.winnergif--lb {
+  left: 20px;
+  bottom: 20px;
+}
+
+.winnergif--rt {
+  right: 20px;
+  top: 20px;
 }
 
 .pyro {

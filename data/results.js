@@ -316,12 +316,12 @@ const results = {
   }
 };
 
-// export const winner = {
-//   set: true,
-//   gold: 'Åke',
-//   silver: 'Maja',
-//   bronze: 'Stig'
-// };
-export const winner = false;
+// när vinnare finns, ändra 'set' till true o lägg in medaljörer exakt som i raden 'TIPPARE'
+export const hasWinner = {
+  set: false,
+  gold: '',
+  silver: '',
+  bronze: ''
+};
 
 export default results;

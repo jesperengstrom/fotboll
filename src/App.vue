@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <transition name="fade">
-      <winner :winner="hasWinner" v-show="hasWinner" />
+      <winner :winner="hasWinner" v-show="hasWinner.set" />
     </transition>
     <div class="app-heading">
       <h1 id="logo" class="text-center">Leogezlen ⚽</h1>
@@ -16,7 +16,7 @@
 <script>
 import Bets from './components/Bets.vue';
 import Winner from './components/Winner.vue';
-import { winner as hasWinner } from '../data/results';
+import { hasWinner } from '../data/results';
 
 export default {
   name: 'App',
@@ -31,9 +31,9 @@ export default {
     };
   },
   mounted () {
-    if (this.hasWinner) {
+    if (this.hasWinner.set) {
       setTimeout(() => {
-        this.hasWinner = '';
+        this.hasWinner.set = '';
       }, 5000);
     }
   }
