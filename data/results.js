@@ -242,7 +242,7 @@ const results = {
   'Panama - Tunisien': {
     result: '2',
     score: '1 - 2',
-    points: 0
+    points: 1
   },
   'England - Belgien': {
     result: '2',
