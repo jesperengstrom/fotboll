@@ -26,7 +26,7 @@ export default {
   },
   data () {
     return {
-      rules: `REGLER:<br> Rätt tippat resultat - 1p <br> Rätt tippad gruppvinnare - 2p <br> Rätt tippad medaljör - 2p <br> Rätt tippad skyttekung - 3p`,
+      rules: `REGLER:<br> Rätt tippat resultat - 1p <br> Rätt tippad gruppvinnare - 2p <br> Rätt tippad medaljör - 2p <br> Rätt tippad skyttekung - 3p, <br><br> Vinnaren får 60% av prispotten, <br> Tvåan får 30%, <br> Trean får 10%`,
       hasWinner: hasWinner
     };
   },
