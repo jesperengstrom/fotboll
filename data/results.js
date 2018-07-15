@@ -289,25 +289,25 @@ const results = {
     score: 'Colombia',
     points: 2
   },
-  gold: {
-    result: '',
-    score: '',
-    points: 0
+  'GULD går till...': {
+    result: 'Frankrike',
+    score: 'Frankrike',
+    points: 2
   },
-  silver: {
-    result: '',
-    score: '',
-    points: 0
+  'SILVER går till...': {
+    result: 'Kroatien',
+    score: 'Kroatien',
+    points: 2
   },
   'BRONS går till...': {
     result: 'Belgien',
     score: 'Belgien',
     points: 2
   },
-  topscorer: {
-    result: '',
-    score: '',
-    points: 0
+  'Skyttekung': {
+    result: 'Harry Kane',
+    score: 'Harry Kane',
+    points: 3
   },
   goalstot: {
     result: '',
@@ -318,10 +318,10 @@ const results = {
 
 // när vinnare finns, ändra 'set' till true o lägg in medaljörer exakt som i raden 'TIPPARE'
 export const hasWinner = {
-  set: false,
-  gold: '',
-  silver: '',
-  bronze: ''
+  set: true,
+  gold: 'Ulf Ekroth',
+  silver: 'Daniacdamaniac',
+  bronze: 'Mia Kerschinsky'
 };
 
 export default results;
