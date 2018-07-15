@@ -300,9 +300,9 @@ const results = {
     points: 0
   },
   bronze: {
-    result: '',
-    score: '',
-    points: 0
+    result: 'Belgien',
+    score: 'Belgien',
+    points: 2
   },
   topscorer: {
     result: '',
