@@ -311,7 +311,7 @@ const results = {
   },
   goalstot: {
     result: '',
-    score: '',
+    score: '169',
     points: 0
   }
 };

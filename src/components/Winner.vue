@@ -7,9 +7,9 @@
   <img src="../assets/gif3.gif" class="winnergif winnergif--lb">
     <img src="../assets/gif4.gif" class="winnergif winnergif--rt">
   <div class="winner-header">
-    <h1>{{winner.gold}}</h1>
-    <h2>{{winner.silver}}</h2>
-    <h3>{{winner.bronze}}</h3>
+    <h1>🏅 {{winner.gold}}</h1>
+    <h2>🥈 {{winner.silver}}</h2>
+    <h3>🥉 {{winner.bronze}}</h3>
   </div>
 </div>
 </template>
@@ -37,12 +37,12 @@ export default {
 }
 
 .winner-header h1 {
-  font-size: 80px;
+  font-size: 40px;
   color: gold;
 }
 
 .winner-header h2 {
-  font-size: 60px;
+  font-size: 40px;
   color: silver;
 }
 
