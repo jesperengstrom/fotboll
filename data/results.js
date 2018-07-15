@@ -299,7 +299,7 @@ const results = {
     score: '',
     points: 0
   },
-  bronze: {
+  'BRONS går till...': {
     result: 'Belgien',
     score: 'Belgien',
     points: 2
